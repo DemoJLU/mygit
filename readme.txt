@@ -7,4 +7,4 @@
 \f0\fs24 \cf0 Git is a distribute version control system.\
 Git is free software distribute under the GPL.
 Git has a mutable index called state.
-Git tracks changes.}
+Git tracks changes of files.}
